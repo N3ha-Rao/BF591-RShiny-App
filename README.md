@@ -21,7 +21,7 @@ User selected PCA plot <br>
 Plot of user defined x or y axis variables with threshold colored p-adj data points <br>
 Data table of resulting values after filtering by threshold <br>
 
-## Tab 4: Geneset Enrichment Analysis Exploration
+## Tab 4: Gene Set Enrichment Analysis Exploration
 
 Normalized enrichment score (NES) plot of up and down-regulated genes <br>
 Table of results with filtering options and download feature <br>
