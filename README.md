@@ -6,26 +6,26 @@ I engineered an R Shiny app for comprehensive molecular analysis of Huntington's
 
 ## Tab 1: Sample Information Exploration
 
-Summary table to give an overview of each column
-Displays a table of data and histograms of numeric data
+Summary table to give an overview of each column <br>
+Displays a table of data and histograms of numeric data <br>
 
 ## Tab 2: Counts Matrix Exploration
 
-Provides a summary table of counts matrix table
-Scatter plot to show user input filtered genes
-Clustered heatmap of counts post-filter
-User selected PCA plot
+Provides a summary table of counts matrix table <br>
+Scatter plot to show user input filtered genes <br>
+Clustered heatmap of counts post-filter <br>
+User selected PCA plot <br>
 
 ## Tab 3: Differential Expression
 
-Plot of user defined x or y axis variables with threshold colored p-adj data points
-Data table of resulting values after filtering by threshold
+Plot of user defined x or y axis variables with threshold colored p-adj data points <br>
+Data table of resulting values after filtering by threshold <br>
 
 ## Tab 4: Geneset Enrichment Analysis Exploration
 
-Normalized enrichment score (NES) plot of up and down-regulated genes
-Table of results with filtering options and download feature
-NES scatterplot with threshold colored p-adj data points
+Normalized enrichment score (NES) plot of up and down-regulated genes <br>
+Table of results with filtering options and download feature <br>
+NES scatterplot with threshold colored p-adj data points <br>
 
 ## File upload for each tab:
 Counts.csv <br>
