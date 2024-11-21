@@ -80,10 +80,6 @@ Upon launching the application, you will encounter several tabs, each designed f
 
 Ensure that your input files (`Metadata.csv`, `Counts.csv`, and `DE.csv`) are formatted correctly and correspond to the data from the GSE64810 study. The application expects specific column names and data structures as outlined in the `N3ha-Rao-App.R` script.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
-
 ## Acknowledgements
 
 Special thanks to the authors of the GSE64810 study for providing the data utilized in this application.
