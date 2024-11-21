@@ -32,13 +32,10 @@ To run HuntOmics Explorer locally, follow these steps:
 
 3. **Install Required Packages**:
 
-   Ensure you have R and RStudio installed. Then, install the necessary packages:
+   Ensure you have R and RStudio installed. Then, install the necessary packages.
+   
 
-   ```R
-   install.packages(c("shiny", "ggplot2", "dplyr", "plotly", "heatmaply", "clusterProfiler", "org.Hs.eg.db"))
-   ```
-
-4. **Run the Application**:
+5. **Run the Application**:
 
    ```R
    library(shiny)
